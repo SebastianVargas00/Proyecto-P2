@@ -1,7 +1,7 @@
 ﻿
 namespace Proyecto_P2
 {
-    partial class Form2
+    partial class Menu
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@ namespace Proyecto_P2
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             this.panelMenu = new System.Windows.Forms.Panel();
             this.btnCerrarSeccion = new FontAwesome.Sharp.IconButton();
             this.btnInformacionPer = new FontAwesome.Sharp.IconButton();
@@ -333,7 +333,7 @@ namespace Proyecto_P2
             this.HoraFecha.Enabled = true;
             this.HoraFecha.Tick += new System.EventHandler(this.HoraFecha_Tick);
             // 
-            // Form2
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -342,7 +342,7 @@ namespace Proyecto_P2
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelTitulo);
             this.Controls.Add(this.panelMenu);
-            this.Name = "Form2";
+            this.Name = "Menu";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.panelMenu.ResumeLayout(false);

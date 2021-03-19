@@ -62,3 +62,19 @@ C:\Users\USER\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreC
 C:\Users\USER\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
 C:\Users\USER\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
 C:\Users\USER\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.Categoria.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.Login.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.Menu.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.InformacionP.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\USER\Desktop\ProyectoP2\Proyecto P2\obj\Debug\Proyecto P2.pdb

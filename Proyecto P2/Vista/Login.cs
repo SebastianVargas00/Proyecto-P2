@@ -30,7 +30,7 @@ namespace Proyecto_P2
                 if (js.Read())
                 {
                     MessageBox.Show("Bienvenido....");
-                    Form formulario = new Form2();
+                    Form formulario = new Menu();
                     formulario.Visible = true;
                     Visible = false;
                 }

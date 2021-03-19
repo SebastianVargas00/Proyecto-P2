@@ -12,7 +12,7 @@ using FontAwesome.Sharp;
 
 namespace Proyecto_P2
 {
-    public partial class Form2 : Form
+    public partial class Menu : Form
     {
         //Campos de forma privada
         private IconButton CurrentBtn;
@@ -20,7 +20,7 @@ namespace Proyecto_P2
         private Form FormularioP;
 
         //Constructor
-        public Form2()
+        public Menu()
         {
             InitializeComponent();
             leftBorderBtn = new Panel();
